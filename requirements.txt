@@ -1,0 +1,4 @@
+gradio
+whisper
+transformers
+yt-dlp
